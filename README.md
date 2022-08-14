@@ -1,7 +1,7 @@
 # TrendAnalyzer
 Algorithms to cluster time series and quantify if some cluster has strong trend.
 
-
+# Example
 ```py
 import matplotlib.pyplot as plt
 n_split = 5
@@ -25,3 +25,5 @@ for label in labels:
     plt.plot(x[mask], ta.y_pred[mask], 'k')
 plt.show()
 ```
+
+<img src="https://github.com/ahmetcik/TrendAnalyzer/blob/main/Example.png" width="30%">
