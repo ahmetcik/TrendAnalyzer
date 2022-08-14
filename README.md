@@ -26,4 +26,4 @@ for label in labels:
 plt.show()
 ```
 
-<img src="https://github.com/ahmetcik/TrendAnalyzer/blob/main/Example.png" width="100%">
+<img src="https://github.com/ahmetcik/TrendAnalyzer/blob/main/Example.png" width="60%">
