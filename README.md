@@ -25,7 +25,7 @@ y += 0.1 * (np.random.rand(n_samples) - 0.5)
 ta = TrendAnalyzer()
 score = ta.fit(x, y)
 
-# 
+
 print(score)
 # 0.996
 
@@ -37,4 +37,4 @@ for label in labels:
 plt.show()
 ```
 
-<img src="https://github.com/ahmetcik/TrendAnalyzer/blob/main/Example.png" width="50%">
+<img src="https://github.com/ahmetcik/TrendAnalyzer/blob/main/Example.png" width="60%">
